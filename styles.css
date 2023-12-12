@@ -6,10 +6,7 @@ body {
     color: #333;
     
 }
-@media screen and (max-width: 768px) {
-    header {
-        padding: 10px 0;
-    }
+
 header {
     background-color: #4CAF50;
     color: white;
